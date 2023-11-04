@@ -1,4 +1,3 @@
-import { ReactElement } from 'react';
 import './App.css';
 import Cherry from './assets/Cherry.png';
 import Lemon from './assets/Lemon.png';
