@@ -1,0 +1,90 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+.nav{
+    position: absolute;
+    top: 0;
+    display: flex;
+    width: 100%;
+    background-color: lightskyblue;
+}
+.headerChapter{
+    width: 88%;
+    border-radius: 18px;
+    background-color: lightskyblue;
+    padding: 0.8rem;
+    transform: translateX(-2rem);
+}
+.title{
+    margin-left: 1rem;
+}
+.activeNavLink {
+    list-style: none;
+    padding: 10px;
+    background-color: lightsteelblue;
+    text-decoration: none;
+    color: white;
+  }
+  .navLink {
+    list-style: none;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+  }
+.codeBlock {
+    word-wrap: break-word;
+    display: flex;
+    border-radius: 25px;
+    padding: 0.8rem;
+    width: 80%;
+    border: 1px solid black;
+    box-shadow: 5px 10px 8px #888888;
+    margin-bottom: 1.7rem  ;
+    background-color: white;
+}
+.code{
+    word-wrap: break-word;
+    white-space:pre-wrap;
+    margin-right: 2rem;
+}
+.copyButton {
+    padding: 5.5px 13px;
+    border-radius: 10px;
+    border: 0;
+    background-color: rgb(255, 56, 86);
+    letter-spacing: 1.5px;
+    font-size: 15px;
+    transition: all .3s ease;
+    box-shadow: rgb(201, 46, 70) 0px 5px 0px 0px;
+    color: hsl(0, 0%, 100%);
+}
+   
+.copyButton:hover {
+    box-shadow: rgb(201, 46, 70) 0px 6px 0px 0px;
+}
+   
+.copyButton:active {
+    background-color: rgb(255, 56, 86);
+    /*50, 168, 80*/
+    box-shadow: rgb(201, 46, 70) 0px 0px 0px 0px;
+    transform: translateY(5px);
+    transition: 200ms;
+}
+.copyButton{
+    height: fit-content;
+    position: relative;
+    margin-left: auto;
+}
+.footer{
+    position: relative;
+    background-color: lightskyblue;
+    height: 100%; 
+    min-height: 3.5rem;
+}
+.outlet{
+    background-color: #f6f6ed ;
+    padding: 2.5rem;
+    margin: 0;
+}
