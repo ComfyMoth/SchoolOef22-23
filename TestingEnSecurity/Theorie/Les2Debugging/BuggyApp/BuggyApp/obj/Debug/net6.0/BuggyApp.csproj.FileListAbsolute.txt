@@ -1,0 +1,14 @@
+F:\Documentjes\Schooloefeningen\TestingEnSecurity\Theorie\Les2Debugging\BuggyApp\BuggyApp\bin\Debug\net6.0\BuggyApp.exe
+F:\Documentjes\Schooloefeningen\TestingEnSecurity\Theorie\Les2Debugging\BuggyApp\BuggyApp\bin\Debug\net6.0\BuggyApp.deps.json
+F:\Documentjes\Schooloefeningen\TestingEnSecurity\Theorie\Les2Debugging\BuggyApp\BuggyApp\bin\Debug\net6.0\BuggyApp.runtimeconfig.json
+F:\Documentjes\Schooloefeningen\TestingEnSecurity\Theorie\Les2Debugging\BuggyApp\BuggyApp\bin\Debug\net6.0\BuggyApp.dll
+F:\Documentjes\Schooloefeningen\TestingEnSecurity\Theorie\Les2Debugging\BuggyApp\BuggyApp\bin\Debug\net6.0\BuggyApp.pdb
+F:\Documentjes\Schooloefeningen\TestingEnSecurity\Theorie\Les2Debugging\BuggyApp\BuggyApp\obj\Debug\net6.0\BuggyApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Documentjes\Schooloefeningen\TestingEnSecurity\Theorie\Les2Debugging\BuggyApp\BuggyApp\obj\Debug\net6.0\BuggyApp.AssemblyInfoInputs.cache
+F:\Documentjes\Schooloefeningen\TestingEnSecurity\Theorie\Les2Debugging\BuggyApp\BuggyApp\obj\Debug\net6.0\BuggyApp.AssemblyInfo.cs
+F:\Documentjes\Schooloefeningen\TestingEnSecurity\Theorie\Les2Debugging\BuggyApp\BuggyApp\obj\Debug\net6.0\BuggyApp.csproj.CoreCompileInputs.cache
+F:\Documentjes\Schooloefeningen\TestingEnSecurity\Theorie\Les2Debugging\BuggyApp\BuggyApp\obj\Debug\net6.0\BuggyApp.dll
+F:\Documentjes\Schooloefeningen\TestingEnSecurity\Theorie\Les2Debugging\BuggyApp\BuggyApp\obj\Debug\net6.0\refint\BuggyApp.dll
+F:\Documentjes\Schooloefeningen\TestingEnSecurity\Theorie\Les2Debugging\BuggyApp\BuggyApp\obj\Debug\net6.0\BuggyApp.pdb
+F:\Documentjes\Schooloefeningen\TestingEnSecurity\Theorie\Les2Debugging\BuggyApp\BuggyApp\obj\Debug\net6.0\BuggyApp.genruntimeconfig.cache
+F:\Documentjes\Schooloefeningen\TestingEnSecurity\Theorie\Les2Debugging\BuggyApp\BuggyApp\obj\Debug\net6.0\ref\BuggyApp.dll

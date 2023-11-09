@@ -1,0 +1,14 @@
+F:\Documentjes\Schooloefeningen\TestingEnSecurity\Theorie\Les2Debugging\TestWatch\TestWatch\bin\Debug\net6.0\TestWatch.exe
+F:\Documentjes\Schooloefeningen\TestingEnSecurity\Theorie\Les2Debugging\TestWatch\TestWatch\bin\Debug\net6.0\TestWatch.deps.json
+F:\Documentjes\Schooloefeningen\TestingEnSecurity\Theorie\Les2Debugging\TestWatch\TestWatch\bin\Debug\net6.0\TestWatch.runtimeconfig.json
+F:\Documentjes\Schooloefeningen\TestingEnSecurity\Theorie\Les2Debugging\TestWatch\TestWatch\bin\Debug\net6.0\TestWatch.dll
+F:\Documentjes\Schooloefeningen\TestingEnSecurity\Theorie\Les2Debugging\TestWatch\TestWatch\bin\Debug\net6.0\TestWatch.pdb
+F:\Documentjes\Schooloefeningen\TestingEnSecurity\Theorie\Les2Debugging\TestWatch\TestWatch\obj\Debug\net6.0\TestWatch.GeneratedMSBuildEditorConfig.editorconfig
+F:\Documentjes\Schooloefeningen\TestingEnSecurity\Theorie\Les2Debugging\TestWatch\TestWatch\obj\Debug\net6.0\TestWatch.AssemblyInfoInputs.cache
+F:\Documentjes\Schooloefeningen\TestingEnSecurity\Theorie\Les2Debugging\TestWatch\TestWatch\obj\Debug\net6.0\TestWatch.AssemblyInfo.cs
+F:\Documentjes\Schooloefeningen\TestingEnSecurity\Theorie\Les2Debugging\TestWatch\TestWatch\obj\Debug\net6.0\TestWatch.csproj.CoreCompileInputs.cache
+F:\Documentjes\Schooloefeningen\TestingEnSecurity\Theorie\Les2Debugging\TestWatch\TestWatch\obj\Debug\net6.0\TestWatch.dll
+F:\Documentjes\Schooloefeningen\TestingEnSecurity\Theorie\Les2Debugging\TestWatch\TestWatch\obj\Debug\net6.0\refint\TestWatch.dll
+F:\Documentjes\Schooloefeningen\TestingEnSecurity\Theorie\Les2Debugging\TestWatch\TestWatch\obj\Debug\net6.0\TestWatch.pdb
+F:\Documentjes\Schooloefeningen\TestingEnSecurity\Theorie\Les2Debugging\TestWatch\TestWatch\obj\Debug\net6.0\TestWatch.genruntimeconfig.cache
+F:\Documentjes\Schooloefeningen\TestingEnSecurity\Theorie\Les2Debugging\TestWatch\TestWatch\obj\Debug\net6.0\ref\TestWatch.dll
