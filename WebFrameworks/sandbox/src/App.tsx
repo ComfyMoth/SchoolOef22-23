@@ -1,6 +1,6 @@
 import styles from "./App.module.css";
 import { NavLink, Outlet, RouterProvider, createBrowserRouter, useParams } from "react-router-dom"
-import { SnippetApp, SnippetCreateCommand, SnippetRouterCommand, SnippetsList } from "./snippets/Snippets";
+import { SnippetCreateCommand, SnippetRouterCommand, SnippetsList } from "./snippets/Snippets";
 import { GuidesList } from "./guides/Guides";
 
 const Root = () =>{
